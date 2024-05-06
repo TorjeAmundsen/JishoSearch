@@ -1,5 +1,6 @@
 # Introduction
 This Chrome extensions allows the user to quickly search highlighted text on [Jisho.org](https://www.jisho.org/).
+
 Jisho is a powerful Japanese-English dictionary that lets you find words, Kanji, example sentences and more quickly and easily.
 
 # Todo:
