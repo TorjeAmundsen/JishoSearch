@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Jisho Search Words/Kanji",
+  "description": "Allows you to look up highlighted words or Kanji using Jisho.org, either via the right-click menu or configured hotkeys.",
+  "version": "0.1",
+  "icons": {
+    "16": "/images/16.png",
+    "48": "/images/48.png",
+    "128": "/images/128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "/images/16.png",
+      "48": "/images/48.png",
+      "128": "/images/128.png"
+    }
+  },
+  "background": {
+    "service_worker": "script.js"
+  },
+  "permissions": ["contextMenus", "scripting"]
+}
